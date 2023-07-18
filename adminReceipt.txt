@@ -1,0 +1,7 @@
+New product with product id 4 added successfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+1	Notebook	5	10
+2	Pen	5	10
+4	Eraser	10	5
+1	Notebook	10	10

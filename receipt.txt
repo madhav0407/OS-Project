@@ -1,0 +1,14 @@
+ProductID: 1
+Product Name: Notebook
+Quantity: 5
+Price: 10
+ProductID: 2
+Product Name: Pen
+Quantity: 5
+Price: 10
+ProductID: 3
+Product Name: Pencil
+Quantity: 20
+Price: 5
+Total Sum: 200
+
